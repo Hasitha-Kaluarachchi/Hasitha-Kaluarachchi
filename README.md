@@ -6,3 +6,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
+Email Me 👉 ✉️ **kaluarachchigehasitha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Own Business
+- 🌱 **I’m currently learning:** MERN
+- 👯 **I’m looking to collaborate on:** RoadMap
+- 💬 **Ask me about:** Python
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
