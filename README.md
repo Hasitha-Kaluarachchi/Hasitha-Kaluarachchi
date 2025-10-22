@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **kaluarachchigehasitha@gmail.com** For Collaboration/Proje
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!-- Snake Game Repo View -->
-
+<td width="50%" align="center">
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
