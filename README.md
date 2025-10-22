@@ -14,3 +14,9 @@ Email Me 👉 ✉️ **kaluarachchigehasitha@gmail.com** For Collaboration/Proje
 - 👯 **I’m looking to collaborate on:** RoadMap
 - 💬 **Ask me about:** Python
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
