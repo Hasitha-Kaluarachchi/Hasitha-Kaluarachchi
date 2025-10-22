@@ -23,3 +23,8 @@ Email Me 👉 ✉️ **kaluarachchigehasitha@gmail.com** For Collaboration/Proje
   </td>
 </tr>
 </table>
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
