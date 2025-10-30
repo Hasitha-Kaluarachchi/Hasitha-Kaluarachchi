@@ -30,7 +30,6 @@ Email Me 👉 ✉️ **kaluarachchigehasitha@gmail.com** For Collaboration/Proje
 <td width="50%" align="center">
 
   <!--- stats (start) -->
-<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
